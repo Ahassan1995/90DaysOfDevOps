@@ -117,9 +117,9 @@ This solution provides a Bash script (`user_management.sh`) designed to manage u
 
 ## Assumptions and Requirements
 
-1. **Root Privileges:** The script requires `sudo` for certain operations (creating, deleting, and modifying users).
-2. **Linux Environment:** The script is intended for Linux systems using `/etc/passwd` for user management.
-3. **Error Handling:** Proper checks are implemented for non-existent users and invalid inputs.
+
+1. **Linux Environment:** The script is intended for Linux systems using `/etc/passwd` for user management.
+2. **Error Handling:** Proper checks are implemented for non-existent users and invalid inputs.
 
 ---
 
